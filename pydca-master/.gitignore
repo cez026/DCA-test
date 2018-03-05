@@ -1,0 +1,10 @@
+.dropbox*
+test/.dropbox*
+*~
+test/err
+test/log
+test/report.txt
+test/tmp*
+*log
+__pycache__
+*pyc
